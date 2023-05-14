@@ -1,1 +1,1 @@
-This is a repository for Data Science information.
+These are repositories for Data Science information.
